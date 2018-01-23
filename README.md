@@ -3,4 +3,4 @@
 * Thumb Clusters mirrored on L2
 * With a regular ergodox qwerty layout tucked away on layer 3 in case someone else needs to use your keyboard for a bit
 
-Implementation via ergodox-ez configurator: http://configure.ergodox-ez.com/keyboard_layouts/krrvbg/
+Implementation via ergodox-ez configurator: http://configure.ergodox-ez.com/keyboard_layouts/krrzaz/
